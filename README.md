@@ -34,18 +34,18 @@ Documentation: Maintain clear and concise documentation throughout the developme
 
 This project is conducted as part of an internship program provided by [Unified Mentor](https://www.linkedin.com/company/unifiedmentor/posts/?feedView=all). 
 
-As an intern, you will receive mentorship and guidance from experienced industry professionals and skilled student mentors. 
+As an intern, I Have receive mentorship and guidance from experienced industry professionals and skilled student mentors. 
 
 This mentorship aims to support your growth in software development, providing valuable insights and feedback throughout the project lifecycle.
 
 
 ## Contributing
 
-We welcome contributions to the WeatherApp project! 
+I welcome contributions to the WeatherApp project! 
 
 ## Special Thanks
 
-We would like to extend our heartfelt thanks to [Unified Mentor](https://www.linkedin.com/company/unifiedmentor/posts/?feedView=all) for providing the opportunity and support for this internship project. 
+I would like to extend our heartfelt thanks to [Unified Mentor](https://www.linkedin.com/company/unifiedmentor/posts/?feedView=all) for providing the opportunity and support for this internship project. 
 
 Additionally, thank you to all Future contributors who have dedicated their time and effort to improving the WeatherApp project.
 
