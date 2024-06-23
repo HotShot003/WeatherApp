@@ -38,6 +38,12 @@ As an intern, I Have receive mentorship and guidance from experienced industry p
 
 This mentorship aims to support your growth in software development, providing valuable insights and feedback throughout the project lifecycle.
 
+## Results Of The Weather Application
+
+<img width="1280" alt="WeatherApp1" src="https://github.com/HotShot003/WeatherApp/assets/121120034/f58129f9-1be6-44cf-a9e4-a256e2784182">
+
+
+<img width="1252" alt="WeatherApp2" src="https://github.com/HotShot003/WeatherApp/assets/121120034/8cd0d39e-ce8b-4908-a53e-f723d9f70280">
 
 ## Contributing
 
@@ -48,4 +54,6 @@ I welcome contributions to the WeatherApp project!
 I would like to extend our heartfelt thanks to [Unified Mentor](https://www.linkedin.com/company/unifiedmentor/posts/?feedView=all) for providing the opportunity and support for this internship project. 
 
 Additionally, thank you to all Future contributors who have dedicated their time and effort to improving the WeatherApp project.
+
+
 
