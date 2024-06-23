@@ -9,11 +9,11 @@
 </head>
 <body>
     <div class="video-background">
-        <video autoplay muted loop id="background-video">
+        <video id="background-video" autoplay muted loop playsinline>
             <source src="images/vid.mp4" type="video/mp4">
-            Your browser does not support the video tag.
         </video>
     </div>
+
     <div class="container">
         <div class="search-box">
             <i class="bx bxs-map"></i>
@@ -25,7 +25,7 @@
             <div class="box">
                 <div class="info-weather">
                     <div class="weather">
-                        <img src="images/cloud.png" alt="Cloud">
+                        <img src="images/cloud.png" alt="Weather icon">
                         <p class="temperature">16 <span>°C</span></p>
                         <p class="description">Broken Clouds</p>
                     </div>
@@ -50,11 +50,12 @@
                     <div class="info-wind">
                         <span>0Km/h</span>
                     </div>
-                    <p>Wind Speed</p>
+                    <p>Wind Speed </p>
                 </div>
             </div>
         </div>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
-
