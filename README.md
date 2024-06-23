@@ -45,6 +45,13 @@ This mentorship aims to support your growth in software development, providing v
 
 <img width="1252" alt="WeatherApp2" src="https://github.com/HotShot003/WeatherApp/assets/121120034/8cd0d39e-ce8b-4908-a53e-f723d9f70280">
 
+## Live Demo
+
+Check out the live demo of the Weather App 
+
+[![Live Demo](https://img.shields.io/badge/LiveDemo%20-%23276DC3.svg?&style=for-the-badge&logo=&logoColor=white)](https://weather-app-eta-five-84.vercel.app/)
+
+
 ## Contributing
 
 I welcome contributions to the WeatherApp project! 
